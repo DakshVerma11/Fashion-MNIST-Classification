@@ -10,7 +10,11 @@ The objective of this project is to classify images of fashion items into one of
 ## Dataset
 
 The dataset used is [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) provided by Zalando. It includes the following categories:
+
+
 ![image](https://github.com/user-attachments/assets/2d34a1ab-9d1b-463d-af3f-313e10021cb6)
+
+
 
 
 | Label | Class       |
@@ -25,7 +29,6 @@ The dataset used is [Fashion MNIST](https://github.com/zalandoresearch/fashion-m
 | 7     | Sneaker     |
 | 8     | Bag         |
 | 9     | Ankle boot  |
-
 
 ## Model Architecture
 
