@@ -68,6 +68,14 @@ The model achieves high accuracy on the test dataset, demonstrating its effectiv
 ![image](https://github.com/user-attachments/assets/906fc73c-1581-4346-a9f6-cb9b6892a620)
 
 
+
+### CNN Model Result
+
+
+![image](https://github.com/user-attachments/assets/983f2914-5f89-4279-9b44-91d72d6a7b13)
+
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
